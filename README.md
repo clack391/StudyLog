@@ -6,7 +6,7 @@ Study Log is a small Android app for keeping track of study time. On the main sc
 
 I wrote this software because I want to get better at estimating how long my work takes. A simple log of what I worked on and how long it took is the tool I need for that, and building it myself was a good way to learn the basics of Android development.
 
-[Software Demo Video](https://youtu.be/7-ZPqbQuTWE?si=yQd9So8xtjmdETpf)
+[Software Demo Video](https://youtu.be/KdH3RFZ1Lig?si=S4lMVCg82BUd7LXm)
 
 # Development Environment
 
